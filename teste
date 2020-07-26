@@ -1,0 +1,22 @@
+
+
+{
+  nome: 'Paulo'
+  livro: 'React'
+  preco: '1000'
+};
+{
+  nome: 'José'
+  livro: 'Java'
+  preco: '1000'
+};
+{
+  nome: 'Anônio'
+  livro: 'Python'
+  preco: '1000'
+};
+{
+  nome: 'Ricardo'
+  livro: 'Java Script'
+  preco: '1000'
+};
